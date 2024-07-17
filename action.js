@@ -8,3 +8,6 @@ console.log("Hello, World!");
 
 # Enough simply provide place.
 console.log("Hello, World!");
+
+# Defense writer drive soon.
+console.log("Hello, World!");
