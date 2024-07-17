@@ -5,3 +5,6 @@ console.log("Hello, World!");
 
 # Cell in either color wind laugh first.
 console.log("Hello, World!");
+
+# Enough simply provide place.
+console.log("Hello, World!");
