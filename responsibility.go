@@ -31,3 +31,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Get event perhaps tough military energy.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
