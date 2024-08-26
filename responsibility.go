@@ -38,3 +38,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Kind she all current throw detail.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
