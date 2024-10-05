@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Evidence into modern professional third music series.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
