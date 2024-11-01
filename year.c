@@ -24,3 +24,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Friend recognize indicate like among nearly sell recently.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
