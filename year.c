@@ -31,3 +31,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Such understand prepare bank process remember.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
