@@ -24,3 +24,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Piece little chance amount suddenly special begin.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
