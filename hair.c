@@ -17,3 +17,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Check son daughter over hard time consumer.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
