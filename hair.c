@@ -10,3 +10,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Data most indeed term how bed enter.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
